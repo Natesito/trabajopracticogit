@@ -156,3 +156,13 @@ main p {
     }
 
     }
+}
+
+/* Product hover */
+
+.Product img:hover {
+    transform: scale();
+}
+
+
+
