@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+    .heroImage {
+        height: 100vh;
+        width: 109vh;
+    }
+
+    .headerContainer {
+        padding: 1.5rem;
+    }
+    
+    .NavContainer {
+        display:none;
+    }
+
+    .burguerButton {
+        display: flex;
+        width: 30px;
+        border: 2px solid black;
+        border-radius: 3px;
+    }
+
+}
+
